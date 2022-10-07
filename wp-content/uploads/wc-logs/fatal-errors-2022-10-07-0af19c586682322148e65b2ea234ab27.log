@@ -1,0 +1,2 @@
+2022-10-07T09:51:07+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 65536 bytes) in C:\xampp\htdocs\demo\demo2\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\collections\lib\Doctrine\Common\Collections\Collection.php on line 20
+
